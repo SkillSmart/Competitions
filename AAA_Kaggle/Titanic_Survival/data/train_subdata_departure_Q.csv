@@ -1,0 +1,124 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+6,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+17,3,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,,Q
+23,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Q
+29,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Q
+33,3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q
+45,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Q
+47,3,"Lennon, Mr. Denis",male,,1,0,370371,15.5,,Q
+48,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q
+83,3,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,7.7875,,Q
+110,3,"Moran, Miss. Bertha",female,,1,0,371110,24.15,,Q
+117,3,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q
+127,3,"McMahon, Mr. Martin",male,,0,0,370372,7.75,,Q
+144,3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Q
+157,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,,Q
+172,3,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,,Q
+187,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Q
+189,3,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,,Q
+197,3,"Mernagh, Mr. Robert",male,,0,0,368703,7.75,,Q
+199,3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q
+209,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,,Q
+215,3,"Kiernan, Mr. Philip",male,,1,0,367229,7.75,,Q
+242,3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q
+246,1,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Q
+261,3,"Smith, Mr. Thomas",male,,0,0,384461,7.75,,Q
+265,3,"Henry, Miss. Delia",female,,0,0,382649,7.75,,Q
+275,3,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Q
+279,3,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,,Q
+281,3,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Q
+290,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Q
+301,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Q
+302,3,"McCoy, Mr. Bernard",male,,2,0,367226,23.25,,Q
+304,2,"Keane, Miss. Nora A",female,,0,0,226593,12.35,E101,Q
+323,2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Q
+331,3,"McCoy, Miss. Agnes",female,,2,0,367226,23.25,,Q
+359,3,"McGovern, Miss. Mary",female,,0,0,330931,7.8792,,Q
+360,3,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,7.8792,,Q
+365,3,"O'Brien, Mr. Thomas",male,,1,0,370365,15.5,,Q
+369,3,"Jermyn, Miss. Annie",female,,0,0,14313,7.75,,Q
+389,3,"Sadlier, Mr. Matthew",male,,0,0,367655,7.7292,,Q
+412,3,"Hart, Mr. Henry",male,,0,0,394140,6.8583,,Q
+413,1,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Q
+422,3,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,,Q
+429,3,"Flynn, Mr. James",male,,0,0,364851,7.75,,Q
+460,3,"O'Connor, Mr. Maurice",male,,0,0,371060,7.75,,Q
+469,3,"Scanlan, Mr. James",male,,0,0,36209,7.725,,Q
+502,3,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Q
+503,3,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,7.6292,,Q
+511,3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,,Q
+518,3,"Ryan, Mr. Patrick",male,,0,0,371110,24.15,,Q
+526,3,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Q
+553,3,"O'Brien, Mr. Timothy",male,,0,0,330979,7.8292,,Q
+561,3,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,7.75,,Q
+574,3,"Kelly, Miss. Mary",female,,0,0,14312,7.75,,Q
+594,3,"Bourke, Miss. Mary",female,,0,2,364848,7.75,,Q
+613,3,"Murphy, Miss. Margaret Jane",female,,1,0,367230,15.5,,Q
+614,3,"Horgan, Mr. John",male,,0,0,370377,7.75,,Q
+627,2,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,,Q
+630,3,"O'Connell, Mr. Patrick D",male,,0,0,334912,7.7333,,Q
+654,3,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,7.8292,,Q
+655,3,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,,Q
+658,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,,Q
+681,3,"Peters, Miss. Katie",female,,0,0,330935,8.1375,,Q
+698,3,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,7.7333,,Q
+704,3,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,,Q
+719,3,"McEvoy, Mr. Michael",male,,0,0,36568,15.5,,Q
+728,3,"Mannion, Miss. Margareth",female,,0,0,36866,7.7375,,Q
+750,3,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,,Q
+768,3,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,,Q
+769,3,"Moran, Mr. Daniel J",male,,1,0,371110,24.15,,Q
+777,3,"Tobin, Mr. Roger",male,,0,0,383121,7.75,F38,Q
+779,3,"Kilgannon, Mr. Thomas J",male,,0,0,36865,7.7375,,Q
+788,3,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,,Q
+791,3,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Q
+826,3,"Flynn, Mr. John",male,,0,0,368323,6.95,,Q
+829,3,"McCormack, Mr. Thomas Joseph",male,,0,0,367228,7.75,,Q
+886,3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,,Q
+891,3,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,,Q
+892,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q
+894,2,"Myles, Mr. Thomas Francis",male,62.0,0,0,240276,9.6875,,Q
+898,3,"Connolly, Miss. Kate",female,30.0,0,0,330972,7.6292,,Q
+908,2,"Keane, Mr. Daniel",male,35.0,0,0,233734,12.35,,Q
+939,3,"Shaughnessy, Mr. Patrick",male,,0,0,370374,7.75,,Q
+947,3,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,,Q
+955,3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,,Q
+958,3,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,,Q
+962,3,"Mulvihill, Miss. Bertha E",female,24.0,0,0,382653,7.75,,Q
+971,3,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,,Q
+976,2,"Lamb, Mr. John Joseph",male,,0,0,240261,10.7083,,Q
+978,3,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,,Q
+980,3,"O'Donoghue, Ms. Bridget",female,,0,0,364856,7.75,,Q
+994,3,"Foley, Mr. William",male,,0,0,365235,7.75,,Q
+998,3,"Buckley, Mr. Daniel",male,21.0,0,0,330920,7.8208,,Q
+999,3,"Ryan, Mr. Edward",male,,0,0,383162,7.75,,Q
+1003,3,"Shine, Miss. Ellen Natalia",female,,0,0,330968,7.7792,,Q
+1005,3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Q
+1013,3,"Kiernan, Mr. John",male,,1,0,367227,7.75,,Q
+1016,3,"Kennedy, Mr. John",male,,0,0,368783,7.75,,Q
+1019,3,"McCoy, Miss. Alicia",female,,2,0,367226,23.25,,Q
+1052,3,"Smyth, Miss. Julia",female,,0,0,335432,7.7333,,Q
+1075,3,"Lane, Mr. Patrick",male,,0,0,7935,7.75,,Q
+1085,2,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,Q
+1092,3,"Murphy, Miss. Nora",female,,0,0,36568,15.5,,Q
+1098,3,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,,Q
+1108,3,"Mahon, Miss. Bridget Delia",female,,0,0,330924,7.8792,,Q
+1119,3,"McNeill, Miss. Bridget",female,,0,0,370368,7.75,,Q
+1125,3,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,,Q
+1148,3,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,,Q
+1163,3,"Fox, Mr. Patrick",male,,0,0,368573,7.75,,Q
+1165,3,"Lennon, Miss. Mary",female,,1,0,370371,15.5,,Q
+1174,3,"Fleming, Miss. Honora",female,,0,0,364859,7.75,,Q
+1183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,382650,6.95,,Q
+1196,3,"McCarthy, Miss. Catherine Katie""""",female,,0,0,383123,7.75,,Q
+1205,3,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,,Q
+1207,3,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,,Q
+1250,3,"O'Keefe, Mr. Patrick",male,,0,0,368402,7.75,,Q
+1272,3,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,,Q
+1273,3,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,,Q
+1280,3,"Canavan, Mr. Patrick",male,21.0,0,0,364858,7.75,,Q
+1288,3,"Colbert, Mr. Patrick",male,24.0,0,0,371109,7.25,,Q
+1291,3,"Conlon, Mr. Thomas Henry",male,31.0,0,0,21332,7.7333,,Q
+1300,3,"Riordan, Miss. Johanna Hannah""""",female,,0,0,334915,7.7208,,Q
+1302,3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,Q
+1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,Q
